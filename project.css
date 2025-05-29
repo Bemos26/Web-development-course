@@ -4,6 +4,7 @@
         font-weight:bolder;
         font-size: 30px;
         line-height: 10px;
+        text-align: center;
     }
     .ace {
          color: grey;
