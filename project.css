@@ -4,7 +4,6 @@
         font-weight:bolder;
         font-size: 30px;
         line-height: 10px;
-        margin-bottom: 2px;
     }
     .ace {
          color: grey;
@@ -12,20 +11,16 @@
         font-weight: bold;
         font-size: 30px;
         line-height: 10px;
-        margin-top: 20px;
     }
     .flashcards {
         font-size: 25px;
         font-weight: bold;
         text-align: left;
-        margin-bottom: 10px;
     }
     .create {
-        width: 250px;
         margin-top: 8px;
         color: grey;
         text-decoration: wavy;
-        margin-bottom: 200px;
     }
     .track {
         text-align: right;
@@ -36,18 +31,14 @@
         color: grey;
         text-decoration: wavy;
         text-align: right;
-        text-indent: 380px;
-        margin-bottom: 200px;
+        text-indent: 500px;
     }
     .collaborative {
           font-size: 25px;
         font-weight: bold;
         text-align: left;
-        margin-bottom: 10px;
     }
     .study {
-        width: 250px;
-        margin-bottom:200px;
         color: grey;
         text-decoration: wavy;
     }
@@ -55,7 +46,6 @@
           font-size: 25px;
         font-weight: bold;
         text-align: center;
-        margin-bottom: 10px;
     }
     .join {
         color: grey;
@@ -72,7 +62,6 @@
     .home {
         color: gray;
         text-align: right;
-        margin-bottom: 100px;
     }
     .h:hover{
         text-decoration: underline;
@@ -81,4 +70,14 @@
     .text{
         color: gray;
         text-align: right;
+    }
+    .image1 {
+       width: 300px;
+
+    }
+    .image2 {
+        width: 300px;
+    }
+    .image3 {
+        width: 300px;
     }
