@@ -1,12 +1,10 @@
-<style>
     .welcome {
         color: black;
         font-family: arial;
-        font-weight: bold;
+        font-weight:bolder;
         font-size: 30px;
         line-height: 10px;
         margin-bottom: 2px;
-        
     }
     .ace {
          color: grey;
@@ -28,7 +26,6 @@
         color: grey;
         text-decoration: wavy;
         margin-bottom: 200px;
-
     }
     .track {
         text-align: right;
@@ -76,7 +73,6 @@
         color: gray;
         text-align: right;
         margin-bottom: 100px;
-
     }
     .h:hover{
         text-decoration: underline;
@@ -85,6 +81,4 @@
     .text{
         color: gray;
         text-align: right;
-
     }
-</style>
