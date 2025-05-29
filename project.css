@@ -22,6 +22,8 @@
         margin-top: 8px;
         color: grey;
         text-decoration: wavy;
+        display: inline-block;
+        vertical-align: top;
     }
     .track {
         text-align: right;
@@ -33,6 +35,8 @@
         text-decoration: wavy;
         text-align: right;
         text-indent: 500px;
+        display: inline-block;
+        vertical-align: top;
     }
     .collaborative {
           font-size: 25px;
@@ -42,6 +46,8 @@
     .study {
         color: grey;
         text-decoration: wavy;
+        display: inline-block;
+        vertical-align: top;
     }
     .ready {
           font-size: 25px;
